@@ -1,0 +1,6 @@
+In the field of data processing and information processing, the use of learning technology machines is getting more and more popular. Car categorization using the car evaluation dataset is one example of how this technology is used. To create a classification model that can
+predict car rating class based on several criteria including buying, maint, doors, persons, lug_boot and safety, the car valuation dataset will be used in this paper.
+Information about 1,728 cars is included in the Car Evaluation data set. Cars will be assessed based on six criteria: buying, maint, doors, persons, lug_boot, and safety. There is four assessment categories: unacc (unacceptable), acc (acceptable), good (good), and vgood (very good). This data set can be analyzed and examined using a learning technology engine to create accurate classification models to predict car grading classes based on the characteristics mentioned above.
+The best classification model will be made in this paper using a machine approach learning, namely Random Forest. The results of this study are expected to help make the car evaluation process becomes more effective and efficient while providing more information accurately to users to help them choose a car that suits their needs they.
+
+In this study we used a dataset from https://archive.ics.uci.edu/ml/datasets/Car+Evaluation
